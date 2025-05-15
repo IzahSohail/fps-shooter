@@ -1,0 +1,29 @@
+# Ignore big texture and terrain files
+Assets/ALP_Assets/
+Assets/Others/
+Assets/ModularHousePack1/
+Assets/Sci Fi Modular Pack/
+Assets/Sci-Fi Styled Modular Pack/
+Assets/New Terrain*
+Assets/Day-Night Skyboxes/
+Assets/SampleScenes/
+Assets/Standard Assets/
+Assets/Sounds/HighQuality/
+
+# Unity generated folders
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+UserSettings/
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# VSCode
+.vscode/
+
+.vs/
