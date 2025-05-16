@@ -66,7 +66,7 @@ Here are the assets used in this project:
 
 1. Clone the repo or download the ZIP.
 2. Open in Unity Hub.
-3. Load the main scene from `Assets/Scenes/mainscene.unity`.
+3. Load the main scene from `Assets/Scenes/MainMenu.unity`.
 4. Press Play.
 
 
